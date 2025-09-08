@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Image.gif" alt="Banner" width="100%" />
+  <img src="Image.png" alt="Banner" width="100%" />
 </p>
 <h1>Hi 👋,I'm Abhishek Rajwar</h1>
 <p>A passionate full stack developer</p>
